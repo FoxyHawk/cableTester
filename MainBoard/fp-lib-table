@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name std_lib_SRC)(type KiCad)(uri /home/wolfy/Desktop/KiCad/libraryTest/std_lib_SRC.pretty)(options "")(descr ""))
+)
