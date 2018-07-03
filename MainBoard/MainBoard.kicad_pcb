@@ -3,7 +3,7 @@
   (general
     (links 83)
     (no_connects 83)
-    (area 0 0 0 0)
+    (area 157.48 87.63 253.450002 143.265239)
     (thickness 1.6)
     (drawings 0)
     (tracks 0)
@@ -192,7 +192,7 @@
   )
 
   (module std_lib_SRC:Diode (layer F.Cu) (tedit 5B23A555) (tstamp 5B3B81C8)
-    (at 158.955001 134.555)
+    (at 156.21 146.05)
     (descr "D, pin pitch=12.7mm")
     (tags diode)
     (path /5B3B88F7)
@@ -559,7 +559,7 @@
   )
 
   (module std_lib_SRC:CONN_1x01 (layer F.Cu) (tedit 5B20CEDE) (tstamp 5B3B8282)
-    (at 213.775 129.02762)
+    (at 173.99 146.05)
     (descr "Low profile, screw machine socket strip, through hole, 100mil / 2.54mm pitch")
     (tags connector)
     (path /5B3B7636)
@@ -600,7 +600,7 @@
   )
 
   (module std_lib_SRC:CONN_1x01 (layer F.Cu) (tedit 5B20CEDE) (tstamp 5B3B829A)
-    (at 242.245 112.31762)
+    (at 269.875 121.92)
     (descr "Low profile, screw machine socket strip, through hole, 100mil / 2.54mm pitch")
     (tags connector)
     (path /5B3B7B2D)
@@ -641,7 +641,7 @@
   )
 
   (module std_lib_SRC:CONN_1x04 (layer F.Cu) (tedit 5B20D15B) (tstamp 5B3B82BB)
-    (at 235.345 89.625001)
+    (at 257.81 55.88)
     (descr "Low profile, screw machine socket strip, through hole, 100mil / 2.54mm pitch")
     (tags connector)
     (path /5B3B7C44)
@@ -694,7 +694,7 @@
   )
 
   (module std_lib_SRC:CONN_1x01 (layer F.Cu) (tedit 5B20CEDE) (tstamp 5B3B82D3)
-    (at 213.775 138.51762)
+    (at 257.81 50.8)
     (descr "Low profile, screw machine socket strip, through hole, 100mil / 2.54mm pitch")
     (tags connector)
     (path /5B3B7B84)
@@ -735,7 +735,7 @@
   )
 
   (module std_lib_SRC:RJ45_8_Shield (layer F.Cu) (tedit 5B3B5DD4) (tstamp 5B3B82EB)
-    (at 161.265001 116.525001)
+    (at 64.77 92.71)
     (tags RJ45)
     (path /5B3B8108)
     (fp_text reference J5 (at 4.7 11.18) (layer F.SilkS)
@@ -782,7 +782,7 @@
   )
 
   (module std_lib_SRC:RJ_12 (layer F.Cu) (tedit 5B3B5E28) (tstamp 5B3B8302)
-    (at 174.465001 92.675001)
+    (at 59.69 132.715)
     (tags RJ_12)
     (path /5B3B7EF3)
     (fp_text reference J6 (at 3.3 6.35) (layer F.SilkS)
@@ -1838,7 +1838,7 @@
   )
 
   (module std_lib_SRC:DIP-4_W7.62mm (layer F.Cu) (tedit 5B2005E7) (tstamp 5B3B8562)
-    (at 206.375001 117.675)
+    (at 159.385 159.385)
     (descr "4-lead dip package, row spacing 7.62 mm (300 mils)")
     (tags "DIP 7.62mm Socket")
     (path /5B3B8872)
@@ -1890,7 +1890,7 @@
   )
 
   (module std_lib_SRC:DIP-16_W7.62mm (layer F.Cu) (tedit 5B23A8CA) (tstamp 5B3B858E)
-    (at 159.405001 90.995)
+    (at 220.345 53.975)
     (descr "16-lead dip package, row spacing 7.62 mm (300 mils), Socket")
     (tags "DIP 7.62mm Socket")
     (path /5B3B8C89)
