@@ -25,6 +25,8 @@ Status :
 | 1N4148       | Diode           | 1        |
 | Switch DIP-2 | Switch          | 1        |
 | Resistors    | ...             | 18       |
+|              | RJ-12 connect   | 1        |
+|              | RJ-45 connect   | 1        |
 
 ### SideBoard
 
