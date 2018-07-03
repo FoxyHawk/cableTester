@@ -45,3 +45,12 @@ Status :
 | LED        | 2.2V 20mA   | 1        |
 | Resistors  | ...         | 6        |
 | Capacity   | ...         | 1        |
+
+## ToDo List
+
+Test design
+Test ClockBoard or change trigger+integrator or NE555 timer
+
+## Simulations
+
+https://www.falstad.com/circuit/
