@@ -39,8 +39,8 @@ encoding utf-8
 Sheet 1 1
 Title "ClockBoard"
 Date ""
-Rev ""
-Comp "FoxEars"
+Rev "0.1"
+Comp "FoxEars Technology"
 Comment1 ""
 Comment2 ""
 Comment3 ""
