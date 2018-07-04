@@ -3,7 +3,7 @@
   (general
     (links 83)
     (no_connects 83)
-    (area 157.48 87.63 253.450002 143.265239)
+    (area 54.154999 46.05238 273.22 165.39)
     (thickness 1.6)
     (drawings 0)
     (tracks 0)
@@ -13,6 +13,12 @@
   )
 
   (page A4)
+  (title_block
+    (title "MainBoard PCB")
+    (rev 0.1)
+    (company "FoxEars Technology")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
